@@ -1,0 +1,84 @@
+*{
+	margin: auto;
+	padding: 0;
+}
+
+.firstSection{
+	display:flex;
+	background-image:url('images/header-bg.png');
+	background-repeat:no-repeat;
+	padding: 100px 100px;
+	margin: 0px 15px 5px 15px; 
+
+}
+.firstHalf{
+	width: 500px;
+	padding: 40px 200px;
+}
+.secondHalf{
+	width: 500px;
+
+}
+
+
+.firstHalf img{
+	width: 100%;
+}
+.secondHalf img{
+	width: 100%;
+}
+.secondSection{
+	display:flex;
+	background-image:url('images/biography-bg.png');
+	background-repeat:no-repeat;
+	padding: 100px 100px;
+	margin: 2px 15px 5px 15px;
+
+}
+.thirdSection{
+	background-image:url('images/latest-work-bg.png');
+	background-repeat:no-repeat;
+	padding: 5px 10px;
+	margin: 0px 15px 5px 15px;
+}
+
+.latest-work{
+	display:flex;
+	padding:50px 0px;
+	
+
+}
+
+
+footer{
+	background-image:url('images/footer-bg.png');
+	background-repeat:no-repeat;
+
+}
+.clientThrough{
+	text-align: center;
+	padding-bottom: 30px;
+
+
+}
+.halfBox{
+	background-color: tomato;
+	text-align: center;
+	padding: 3% 6% ;
+	margin: 0% 35% 0% 35%;
+	border-radius:20px;
+}
+a{text-decoration: none;}
+button{
+	color:white;
+	background-image: linear-gradient(to right,lightsalmon,tomato);
+	padding: 8px 24px 7px 24px;
+	border-radius: 9px; 
+}
+h2{
+	font-size:35px;
+}
+h1{
+	font-size:45px;
+
+}
